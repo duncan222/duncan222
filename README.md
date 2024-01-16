@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Science student at the U
 - Experienced with Angular TypeScript and React JavaScript frameworks
 - Familiar with ASP.NET and related web technologies
 
-## 💼 Professional Experience
+## 💼 Professional Experience:
 - Completed several internships, focusing on software development and engineering
 - Gained practical experience in C++, Python, C#, and JavaScript
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a dedicated Computer Science student at the U
 - Open to participating in innovative open source projects
 - Interested in leveraging my skills to contribute to meaningful and impactful software
 
-## 🔗 Connect with Me
+## 🔗 Connect with Me:
 - LinkedIn: [Duncan Collins](https://www.linkedin.com/in/duncan-collins/)
 
 I'm always eager to connect and collaborate. Feel free to reach out! 💻✨
